@@ -28,4 +28,7 @@ Schedule:
 - 6:00pm to 7:00pm: meet-and-greet
 - 7:00pm to 9:00pm: presentation
 
+##
+Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/313608331](https://www.meetup.com/laravel-toronto/events/313608331)
+
 
