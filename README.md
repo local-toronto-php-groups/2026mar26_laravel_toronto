@@ -1,4 +1,4 @@
-![header_image](https://raw.githubusercontent.com/local-toronto-php-groups/2026mar26_laravel_toronto/main/2026mar26_laravel_toronto_image1.png)
+![header_image](https://raw.githubusercontent.com/local-toronto-php-groups/2026mar26_laravel_toronto/main/cyborgs_at_hackathon.png)
 
 # Laravel Toronto meet-up, Mar 26/2026
 Laravel Toronto meet-up, on Mar 26, 2026 (AI App Hackathon)
