@@ -62,6 +62,7 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/313608331](ht
 ##
 - [https://laravel.com/ai](https://laravel.com/ai/)
 - [https://aistudio.google.com/](https://aistudio.google.com/)
+- [https://marois.dev/writing/why-i-chose-atlas-over-laravel-ai-sdk](https://marois.dev/writing/why-i-chose-atlas-over-laravel-ai-sdk)
 
 ##
 ![Nana Banana has a sense of humour!](https://raw.githubusercontent.com/local-toronto-php-groups/2026mar26_laravel_toronto/main/cyborgs_at_hackathon2.png)
