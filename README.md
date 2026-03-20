@@ -57,6 +57,9 @@ The overhead will be available for impromptu lightening talks, explanations, spe
 BTW, I am running FrankenPHP on my local Docker container. It is working well. However, Forge does not set up FrankenPHP by default, so I will have some work to do when my app is in prod. 
 
 ##
+Laravel Cloud offers a $5 trial with their "Starter" plan for new accounts. An excellent option if you want to deploy.
+
+##
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/313608331](https://www.meetup.com/laravel-toronto/events/313608331)
 
 ##
