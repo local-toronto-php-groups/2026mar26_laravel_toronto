@@ -85,7 +85,7 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/313608331](ht
 (Scotiabank Arena on the left, Union Station entrance on the right)
 
 ![Toronto City Hall](/IMG_0529.png)
-(Toronto City Hall (DigitalOcean and Vultr TOR data centre @ building to right)
+(Toronto City Hall -- DigitalOcean and Vultr TOR data centre @ building to right)
 
 ![Historical Canada Life building, with "Weather Light" at the top](/IMG_0530.png)
 (Historical Canada Life building, with "Weather Light" at the top)
