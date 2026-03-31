@@ -70,4 +70,24 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/313608331](ht
 ##
 ![Nana Banana has a sense of humour!](https://raw.githubusercontent.com/local-toronto-php-groups/2026mar26_laravel_toronto/main/cyborgs_at_hackathon2.png)
 
+##
+
+![Welcome to Maple!](/IMG_3779.png)
+(Welcome to Maple!)
+
+![Workshopping the Laravel AI package](/IMG_0534.png)
+(Workshopping the Laravel AI package)
+
+![Scotiabank Arena, home of The Leafs](/IMG_0523.png)
+(Scotiabank Arena, home of The Leafs)
+
+![Scotiabank Arena on the left, Union Station entrance on the right](/IMG_0524.png)
+(Scotiabank Arena on the left, Union Station entrance on the right)
+
+![Toronto City Hall](/IMG_0529.png)
+(Toronto City Hall (DigitalOcean and Vultr TOR data centre @ building to right)
+
+![Historical Canada Life building, with "Weather Light" at the top](/IMG_0530.png)
+(Historical Canada Life building, with "Weather Light" at the top)
+
 
