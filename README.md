@@ -63,9 +63,18 @@ Laravel Cloud offers a [$5 trial](https://cloud.laravel.com/docs/free-trial) wit
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/313608331](https://www.meetup.com/laravel-toronto/events/313608331)
 
 ##
+<h2>Post Meet-up Thoughts</h2>
+In my memory of attending Toronto area meet-ups, there have been relatively few hack-a-thon/workshops over the years. My recollection is that they were all universally shit. 
+
+Many were excuses for unplanned meet-ups that went ahead anyways. I recollect developers giving f-off vibes, not looking up from their laptops. I recall developers doing their own thing, none of which was related to anything else anyone else was doing, and no one talking to anyone. I recall wrestling with development environments to the exclusion of doing anything else. I recall lousy attendence. The one good memory is from an evening hackathon at a True North PHP Conference. It was at Microsoft's Canadian headquarters, and Microsoft was giving away some decent prizes to the winning team.
+
+These recollections had me hesitant about doing a workshop. The feedback in Discord was essential! But, still, why would we buck such a long term trend? Well... it turns out, that the dozen local Artisans wanted a clear opportunity to try out the new Laravel AI package. To have that block of time, away from everything, with other devs messing with the same thing. 
+
+##
 - [https://laravel.com/ai](https://laravel.com/ai/)
 - [https://aistudio.google.com/](https://aistudio.google.com/)
 - [https://marois.dev/writing/why-i-chose-atlas-over-laravel-ai-sdk](https://marois.dev/writing/why-i-chose-atlas-over-laravel-ai-sdk)
+- [https://laravel-news.com/ship-ai-with-laravel-building-your-first-agent-with-laravel-13s-ai-sdk](https://laravel-news.com/ship-ai-with-laravel-building-your-first-agent-with-laravel-13s-ai-sdk)
 
 ##
 ![Nana Banana has a sense of humour!](https://raw.githubusercontent.com/local-toronto-php-groups/2026mar26_laravel_toronto/main/cyborgs_at_hackathon2.png)
