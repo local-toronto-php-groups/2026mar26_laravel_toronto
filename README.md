@@ -68,7 +68,13 @@ In my memory of attending Toronto area meet-ups, there have been relatively few 
 
 Many were excuses for unplanned meet-ups that went ahead anyways. I recollect developers giving f-off vibes, not looking up from their laptops. I recall developers doing their own thing, none of which was related to anything else anyone else was doing, and no one talking to anyone. I recall wrestling with development environments to the exclusion of doing anything else. I recall lousy attendence. The one good memory is from an evening hackathon at a True North PHP Conference. It was at Microsoft's Canadian headquarters, and Microsoft was giving away some decent prizes to the winning team.
 
-These recollections had me hesitant about doing a workshop. The feedback in Discord was essential! But, still, why would we buck such a long term trend? Well... it turns out, that the dozen local Artisans wanted a clear opportunity to try out the new Laravel AI package. To have that block of time, away from everything, with other devs messing with the same thing. 
+These recollections had me hesitant about doing a workshop. The feedback in Discord was essential! But, still, why would we buck such a long term trend? Well... it turns out, that the dozen local Artisans wanted a clear opportunity to try out the new Laravel AI package. To have that block of time, away from everything, with other devs messing with the same thing. There was a genuine curiosity about the AI package. 
+
+As the host, I closed my laptop, and walked around the room. Many times I was nicely asked to keep walking, because someone was In The Zone. On the other hand, everyone had an ear to the general conversation, because everyone lifted their head up to chime in on something. 
+
+Each person was trying out a different thing, which surprised me. I took a mental note that there should be lightening talks at the end of hackathons/workshops. Although, there was no time. Despite many of us getting there early, and sticking around after. 
+
+It went very well. To me, the feeling was like we captured lightening in a bottle. We should keep at these workshops, especially as Laravel AI progresses. 
 
 ##
 - [https://laravel.com/ai](https://laravel.com/ai/)
